@@ -17,7 +17,9 @@ Os projetos são iniciais e podem conter abordagens simples ou incompletas, pois
 ✔ Exercícios práticos para fixação
 
 **🚀 Como usar**
-Shell# Clone o repositóriogit clone https://github.com/seu-usuario/csharp-sandbox.git# Acesse a pastacd csharp-sandbox# Abra no Visual Studio ou VS CodeShow more lines
+# Clone o repositório git clone https://github.com/seu-usuario/csharp-sandbox.git
+# Acesse a pastacd csharp-sandbox
+# Abra no Visual Studio ou VS CodeShow more lines
 
 #🛠 Tecnologias
 C#
