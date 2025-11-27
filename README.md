@@ -1,7 +1,11 @@
 🌟 C# Sandbox
-https://img.shields.io/badge/.NET-8.0-blue?logo=dotnet
+[https://img.shields.io/badge/.NET-8.0-blue?logo=dotnet
+https://img.shields.io/badge/license-MIT-green.svg
+https://img.shields.io/badge/status-Em%20Desenvolvimento-yellow](https://img.shields.io/badge/.NET-8.0-blue?logo=dotnet
 https://img.shields.io/badge/license-MIT-green.svg
 https://img.shields.io/badge/status-Em%20Desenvolvimento-yellow
+
+)
 
 Este repositório é um espaço que utilizo para estudos e prática de programação em C#.
 Aqui você encontrará meus primeiros projetos, simples e experimentais, criados para aprender conceitos básicos e reforçar fundamentos da linguagem.
